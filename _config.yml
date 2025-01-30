@@ -58,8 +58,7 @@ permalink: /:title/
 #theme
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme
-
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
