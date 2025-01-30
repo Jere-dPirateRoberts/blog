@@ -55,6 +55,11 @@ baseurl: "http://Jere-dPirateRoberts.github.io/blog"
 
 permalink: /:title/
 
+#theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
